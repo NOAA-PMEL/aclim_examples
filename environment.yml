@@ -1,0 +1,17 @@
+name: aclim
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cf_xarray
+  - pandas
+  - cartopy
+  - jupyterlab
+  - ca-certificates
+  - certifi
+  - openssl
+  - dask
+  - netcdf4
+  - h5py
+  - h5netcdf
+  - xarray
